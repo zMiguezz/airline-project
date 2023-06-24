@@ -118,3 +118,25 @@ color: #000;
     align-items: center;
     justify-content: center;
 }
+
+.contactanos {
+    display: flex;
+    width: 145px;
+    height: 59px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    
+    /* Typography */
+    color: var(--gray-90, #1A232F);
+    /* Platform/Title L */
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+
+/* .atencion-personalizada-text {
+    
+} */
