@@ -90,6 +90,9 @@ color: #000;
     align-items: center;
     justify-content: center;
     flex-direction: column; 
+    /* width: 1209px;
+    height: 842px; */
+
 }
 .text2 {
     display: flex;
@@ -111,10 +114,10 @@ color: #000;
 }
 
 .area-de-trabajo {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
 }
 
 .contactanos {
