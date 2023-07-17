@@ -1,0 +1,1 @@
+let inicioDOM = document.querySelector()
