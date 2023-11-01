@@ -159,3 +159,8 @@
     font-weight: 200;
     line-height: 187.2%;
 } 
+
+button:hover {
+    background-color: #FFA500;
+    color: white;
+}
