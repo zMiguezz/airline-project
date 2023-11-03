@@ -164,3 +164,17 @@ button:hover {
     background-color: #FFA500;
     color: white;
 }
+.letters button.button-style {
+    display: flex;
+    width: 65px;
+    height: 24px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #000 !important;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    line-height: 187.2% !important; /* 26.208px */
+}
