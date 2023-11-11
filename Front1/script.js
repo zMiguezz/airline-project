@@ -8,10 +8,10 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     contactoButton.addEventListener("click", function() {
-        window.location.href = "index2.html"; l
+        window.location.href = "index2.html"; 
     });
 
     areaButton.addEventListener("click", function() {
-        window.location.href = ""; // Cambia "ruta_de_area_de_trabajo.html" por tu ruta real
+        window.location.href = "index3.html"; // Cambia "ruta_de_area_de_trabajo.html" por tu ruta real
     });
 });
